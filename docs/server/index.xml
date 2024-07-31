@@ -1,0 +1,5 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>橘子灵堂 – 橘子服务器</title><link>/docs/server/</link><description>Recent content in 橘子服务器 on 橘子灵堂</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="/docs/server/index.xml" rel="self" type="application/rss+xml"/><item><title>限速1.5M/s的内网穿透</title><link>/docs/server/nat/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/server/nat/</guid><description>
+&lt;p>橘子神开高版本插件服使用限速1.5MB/s的内网穿透&lt;br>
+&lt;img src="https://s2.loli.net/2024/07/31/c2tGS1xy4dJZNOQ.png" alt="ping.png" loading="lazy" />
+但橘子神并不认为他的内网穿透会这么卡，所以开始神权，认为有人ddos他的服务器&lt;br>
+&lt;img src="https://s2.loli.net/2024/07/31/M7IGFhz1JsdQkNn.png" alt="power.png" loading="lazy" />&lt;/p></description></item></channel></rss>
