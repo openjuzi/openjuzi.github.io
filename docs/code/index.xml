@@ -1,4 +1,5 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>橘子灵堂 – 橘子代码</title><link>/docs/code/</link><description>Recent content in 橘子代码 on 橘子灵堂</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="/docs/code/index.xml" rel="self" type="application/rss+xml"/><item><title>橘子神的验证程序</title><link>/docs/code/socketauth/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/code/socketauth/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>橘子灵堂 – 橘子代码</title><link>/docs/code/</link><description>Recent content in 橘子代码 on 橘子灵堂</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="/docs/code/index.xml" rel="self" type="application/rss+xml"/><item><title>橘子神手写的Java代码</title><link>/docs/code/handwrittencode/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/code/handwrittencode/</guid><description>
+&lt;p>&lt;img src="https://s2.loli.net/2024/07/31/2upWzdyAKZQXEG3.jpg" alt="handwrittenCode.png" loading="lazy" />&lt;/p></description></item><item><title>橘子神的验证程序</title><link>/docs/code/socketauth/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/code/socketauth/</guid><description>
 &lt;blockquote>
 &lt;p>莫名其妙的换行和诡异的横向空白不是本站刻意加的&lt;/p>
 &lt;/blockquote>
@@ -157,5 +158,5 @@ title="Copy code"
 &lt;div class="success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4">&lt;/div>
 &lt;/button>
 &lt;/div>
-&lt;/div></description></item><item><title>橘子神手写的Java代码</title><link>/docs/code/handwrittencode/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/code/handwrittencode/</guid><description>
-&lt;p>&lt;img src="https://s2.loli.net/2024/07/31/2upWzdyAKZQXEG3.jpg" alt="handwrittenCode.png" loading="lazy" />&lt;/p></description></item></channel></rss>
+&lt;/div></description></item><item><title>橘子神打滑Xylitol反击退失败</title><link>/docs/code/skidvelocity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/code/skidvelocity/</guid><description>
+&lt;p>&lt;img src="https://s2.loli.net/2024/08/01/KbTmAZpX2rqfEQI.png" alt="velocity.png" loading="lazy" />&lt;/p></description></item></channel></rss>
