@@ -1,7 +1,33 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>橘子灵堂 – 橘子纪念馆</title><link>/docs/</link><description>Recent content in 橘子纪念馆 on 橘子灵堂</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>橘子神初二复读</title><link>/docs/speech/repeat/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/speech/repeat/</guid><description>
-&lt;p>&lt;img src="https://s2.loli.net/2024/08/01/MmnLwlgfSrQRGuD.png" alt="repeat.png" loading="lazy" />&lt;/p></description></item><item><title>橘子神手写的Java代码</title><link>/docs/code/handwrittencode/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/code/handwrittencode/</guid><description>
-&lt;p>&lt;img src="https://s2.loli.net/2024/07/31/2upWzdyAKZQXEG3.jpg" alt="handwrittenCode.png" loading="lazy" />&lt;/p></description></item><item><title>橘子的记忆只有三天</title><link>/docs/speech/forgetting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/speech/forgetting/</guid><description>
-&lt;p>&lt;img src="https://s2.loli.net/2024/08/01/vEDRtaJZh4w9Nro.png" alt="forgetting.png" loading="lazy" />&lt;/p></description></item><item><title>橘子神的验证程序</title><link>/docs/code/socketauth/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/code/socketauth/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>橘子灵堂 – 橘子纪念馆</title><link>/docs/</link><description>Recent content in 橘子纪念馆 on 橘子灵堂</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>橘子神手写的Java代码</title><link>/docs/code/handwrittencode/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/code/handwrittencode/</guid><description>
+&lt;p>&lt;img src="https://s2.loli.net/2024/07/31/2upWzdyAKZQXEG3.jpg" alt="handwrittenCode.png" loading="lazy" />&lt;/p></description></item><item><title>橘子神用构建工具编写全脱和远控</title><link>/docs/speech/buildtools/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/speech/buildtools/</guid><description>
+&lt;h2>橘子神用Maven编写JuZi Netease Launcher&lt;span class="hx-absolute -hx-mt-20" id="橘子神用maven编写juzi-netease-launcher">&lt;/span>
+&lt;a href="#%e6%a9%98%e5%ad%90%e7%a5%9e%e7%94%a8maven%e7%bc%96%e5%86%99juzi-netease-launcher" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;img src="https://s2.loli.net/2024/08/01/t5QdaBrIzSLkvU2.png" alt="maven.png" loading="lazy" />&lt;/p>
+&lt;h2>HotRat是用Gradle编写的吗&lt;span class="hx-absolute -hx-mt-20" id="hotrat是用gradle编写的吗">&lt;/span>
+&lt;a href="#hotrat%e6%98%af%e7%94%a8gradle%e7%bc%96%e5%86%99%e7%9a%84%e5%90%97" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;img src="https://s2.loli.net/2024/08/01/pEumN4wfB3oILn2.png" alt="gradle.png" loading="lazy" />&lt;/p></description></item><item><title>橘子英语语法</title><link>/docs/english/grammar/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/english/grammar/</guid><description>
+&lt;h2>名词 + 动词原形 + 动词原形&lt;span class="hx-absolute -hx-mt-20" id="名词--动词原形--动词原形">&lt;/span>
+&lt;a href="#%e5%90%8d%e8%af%8d--%e5%8a%a8%e8%af%8d%e5%8e%9f%e5%bd%a2--%e5%8a%a8%e8%af%8d%e5%8e%9f%e5%bd%a2" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;img src="https://s2.loli.net/2024/08/01/Lx6tkuC3V4pWZ8U.png" alt="grammar1.png" loading="lazy" />&lt;/p>
+&lt;h2>want + 动词原形&lt;span class="hx-absolute -hx-mt-20" id="want--动词原形">&lt;/span>
+&lt;a href="#want--%e5%8a%a8%e8%af%8d%e5%8e%9f%e5%bd%a2" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;img src="https://s2.loli.net/2024/08/01/Yz1rDas3RjGNIxm.png" alt="grammar2.png" loading="lazy" />&lt;/p>
+&lt;h2>太多东西了整合一下&lt;span class="hx-absolute -hx-mt-20" id="太多东西了整合一下">&lt;/span>
+&lt;a href="#%e5%a4%aa%e5%a4%9a%e4%b8%9c%e8%a5%bf%e4%ba%86%e6%95%b4%e5%90%88%e4%b8%80%e4%b8%8b" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;div class="hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code">
+&lt;div class="filename" dir="auto">橘子英语&lt;/div>&lt;pre>&lt;code>问对方 &amp;lt;什么东西&amp;gt; 是在哪学的 正确短语是
+you sth. study where
+restart不是不及物动词 所以可以接to 那么重新开始做某事 正确短语是
+restart to do sth.
+advise是一个特殊的动词 他可以被当成名词使用 例如
+give me a advise // 没打错，橘子神原句用的这个不定冠词就是a
+橘子原创时态 现在将来时 格式
+主语 &amp;#43; be &amp;#43; will &amp;#43; ...&lt;/code>&lt;/pre>&lt;div class="hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-8">
+&lt;button
+class="hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50"
+title="Copy code"
+>
+&lt;div class="copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4">&lt;/div>
+&lt;div class="success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div></description></item><item><title>橘子神初二复读</title><link>/docs/speech/repeat/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/speech/repeat/</guid><description>
+&lt;p>&lt;img src="https://s2.loli.net/2024/08/01/MmnLwlgfSrQRGuD.png" alt="repeat.png" loading="lazy" />&lt;/p></description></item><item><title>橘子神的验证程序</title><link>/docs/code/socketauth/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/code/socketauth/</guid><description>
 &lt;blockquote>
 &lt;p>莫名其妙的换行和诡异的横向空白不是本站刻意加的&lt;/p>
 &lt;/blockquote>
@@ -160,7 +186,39 @@ title="Copy code"
 &lt;div class="success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4">&lt;/div>
 &lt;/button>
 &lt;/div>
-&lt;/div></description></item><item><title>橘子神打滑Xylitol反击退失败</title><link>/docs/code/skidvelocity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/code/skidvelocity/</guid><description>
+&lt;/div></description></item><item><title>橘子英语拼写</title><link>/docs/english/spelling/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/english/spelling/</guid><description>
+&lt;h2>feild&lt;span class="hx-absolute -hx-mt-20" id="feild">&lt;/span>
+&lt;a href="#feild" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;img src="https://s2.loli.net/2024/08/01/TZB5JnYNjx6bvUe.png" alt="spelling1.png" loading="lazy" />&lt;/p>
+&lt;h2>太多东西了整合一下&lt;span class="hx-absolute -hx-mt-20" id="太多东西了整合一下">&lt;/span>
+&lt;a href="#%e5%a4%aa%e5%a4%9a%e4%b8%9c%e8%a5%bf%e4%ba%86%e6%95%b4%e5%90%88%e4%b8%80%e4%b8%8b" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;div class="hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code">
+&lt;div class="filename" dir="auto">橘子英语&lt;/div>&lt;pre>&lt;code>script是一个错误拼写,正确拼写是scrpit
+cancel是一个错误拼写,正确拼写是cansel
+deobf是一个错误拼写,正确拼写是deof或debo
+pixel是一个错误拼写,正确拼写是ixel
+insane是一个错误拼写,正确拼写是insana
+deprecated是一个错误拼写,正确拼写是drop
+failed是一个错误拼写,正确拼写是faild或falild
+success是一个错误拼写,正确拼写是sucess
+unknown是一个错误拼写,正确拼写是unkown
+because是一个错误拼写,正确拼写是beacuse
+release是一个错误拼写,正确拼写是relasses
+owner是一个错误拼写,正确拼写是onwer
+crack是一个错误拼写,正确拼写是crak
+update是一个错误拼写,正确拼写是uodate
+studio是一个错误拼写,正确拼写是stuiod或stuoid
+critical是一个错误拼写,正确拼写是critcral
+fixed是一个错误拼写,正确拼写是fixxed
+新闻的错误拼写是news,正确拼写是new&lt;/code>&lt;/pre>&lt;div class="hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-8">
+&lt;button
+class="hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50"
+title="Copy code"
+>
+&lt;div class="copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4">&lt;/div>
+&lt;div class="success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div></description></item><item><title>橘子的记忆只有三天</title><link>/docs/speech/forgetting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/speech/forgetting/</guid><description>
+&lt;p>&lt;img src="https://s2.loli.net/2024/08/01/vEDRtaJZh4w9Nro.png" alt="forgetting.png" loading="lazy" />&lt;/p></description></item><item><title>橘子神打滑Xylitol反击退失败</title><link>/docs/code/skidvelocity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/code/skidvelocity/</guid><description>
 &lt;p>&lt;img src="https://s2.loli.net/2024/08/01/KbTmAZpX2rqfEQI.png" alt="velocity.png" loading="lazy" />&lt;/p></description></item><item><title>橘子神经典自以为是</title><link>/docs/speech/smug/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/speech/smug/</guid><description>
 &lt;h2>图片1&lt;span class="hx-absolute -hx-mt-20" id="图片1">&lt;/span>
 &lt;a href="#%e5%9b%be%e7%89%871" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;img src="https://s2.loli.net/2024/08/01/umY3ScnfyOHGDdZ.png" alt="smug.png" loading="lazy" />&lt;/p>
